@@ -20,10 +20,10 @@ h1, h2, nav li {
 
 #logo {
     float: left;
-    height: 150px;
-    width: 150px;
-    margin: 15px;
-    padding: 15px;
+    height: 100px;
+    width: 100px;
+    margin: 5px 30px;
+    padding: 10px;
 }
 
 /* navigation bar links */
@@ -37,5 +37,5 @@ h1, h2, nav li {
 #menu li {
     display: inline;
     list-style-type: none;
-    margin-right: 20px;
+    margin-right: 50px;
 }
