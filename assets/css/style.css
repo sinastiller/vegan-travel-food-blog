@@ -12,6 +12,11 @@ body {
     color: #3a3a3a;
 }
 
+nav {
+    width: 100%;
+    background-color: #BFB1A8;
+    overflow: auto;
+}
 /* headings and logo */
 
 h1, h2, nav li {
@@ -19,12 +24,13 @@ h1, h2, nav li {
 }
 
 #logo {
+    position: absolute;
     float: left;
-    height: 100px;
-    width: 100px;
-    margin: 5px 30px;
-    padding: 10px;
-}
+    height: 60px;
+    width: 60px;
+    margin: 5px 20px;
+    padding: 5px;
+   }
 
 /* navigation bar links */
 
@@ -35,7 +41,7 @@ h1, h2, nav li {
 }
 
 #menu, #logo {
-    line-height: 125px;
+    line-height: 80px;
 }
 
 #menu li {
