@@ -80,3 +80,23 @@ h1, h2 {
     transform: translate(-50%, -50%);
     color: #DAE7E3;
 }
+
+/* Our Story Button */
+.our-story {
+    background-color: #2f594d;
+    border-radius: 6px;
+    color: white;
+    padding: 12px 24px;
+    margin: 20px auto;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    transition-duration: 0.4s;
+    width: 150px;
+}
+
+.our-story:hover {
+    background-color: #1f3b33;
+    color: white ;
+}
