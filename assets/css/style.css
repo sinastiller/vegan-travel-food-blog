@@ -113,6 +113,7 @@ hr {
     margin: 2px auto;
 }
 
+/* Flexbox-Container */
 #latest-posts {
     display: flex;
     justify-content: space-evenly;
@@ -125,4 +126,36 @@ hr {
 .latest-posts-body {
     min-height: 500px;
     width: 25%;
+}
+
+.latest-posts-image {
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.title-link {
+    text-decoration: none;
+    color: #3a3a3a;
+}
+
+.title-link:hover {
+    color: #336053;
+    border-bottom:  2px solid #3a3a3a;
+}
+.latest-posts-title {
+    padding: 5px;
+    text-align: center;
+}
+
+.latest-posts-body > hr {
+    border-top: 2px solid #3a3a3a;
+    width: 60%;
+    margin: 2px auto;
+}
+
+.latest-posts-description {
+    padding: 3px;
+    text-align: center;
+    
 }
