@@ -113,7 +113,7 @@ hr {
     margin: 2px auto;
 }
 
-#post-container {
+#latest-posts {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -122,20 +122,7 @@ hr {
     margin: 40px auto;
 }
 
-#left-container{
+.latest-posts-body {
     min-height: 500px;
     width: 25%;
-    background-color: blue;
-}
-
-#center-container{
-    min-height: 500px;
-    width: 25%;
-    background-color: red;
-}
-
-#right-container{
-    min-height: 500px;
-    width: 25%;
-    background-color: green;
 }
