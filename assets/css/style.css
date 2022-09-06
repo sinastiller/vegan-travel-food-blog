@@ -155,7 +155,18 @@ hr {
 }
 
 .latest-posts-description {
-    padding: 3px;
+    padding: 10px;
     text-align: center;
     
+}
+
+.title-link-2 {
+    color: #3a3a3a;
+    text-transform: uppercase;
+    background-color: rgba(125, 146, 66, 0.2);   
+    text-decoration: none;
+}
+
+.title-link-2:hover {
+    color: #7d9242;
 }
