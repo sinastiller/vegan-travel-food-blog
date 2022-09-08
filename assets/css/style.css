@@ -162,11 +162,12 @@ hr {
 
 .title-link-2 {
     color: #3a3a3a;
-    text-transform: uppercase;
-    background-color: rgba(125, 146, 66, 0.2);   
     text-decoration: none;
+    background-color: rgba(125, 146, 66, 0.2); 
+    text-transform: uppercase; 
+    
 }
 
 .title-link-2:hover {
-    color: #7d9242;
+    color: #7d9242;  
 }
