@@ -288,5 +288,23 @@ input::placeholder {
 /* Footer */
 
 footer {
-    
+    height: 80px;
+    width: 100%;
+    background-color: #e5dedc;
+    overflow: auto;
+}
+
+.social-networks {
+    text-align: center;
+} 
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 220%;
+    margin: 30px;
+    padding: 0 20px;
+    color: #3f4826;
 }
