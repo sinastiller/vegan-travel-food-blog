@@ -189,15 +189,21 @@ hr {
     border-radius: 4px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
     display: flex;
-    /* justify-content: space-evenly;
     align-items: center;
-    align-content: center; */
+    justify-content: center;
 }
 
 #newsletter-image {
     height: 500px;
     width: 50%;
     background-color: #7BA696;
+    text-align: center;
+}
+
+#newsletter-image img {
+   width: 80%; 
+   margin: 25px; 
+   padding: 25px;
 }
 
 #newsletter-content {
