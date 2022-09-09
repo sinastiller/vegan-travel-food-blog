@@ -157,7 +157,6 @@ hr {
 .latest-posts-description {
     padding: 10px;
     text-align: center;
-    
 }
 
 .title-link-2 {
@@ -165,7 +164,7 @@ hr {
     text-decoration: none;
     background-color: rgba(125, 146, 66, 0.2); 
     text-transform: uppercase; 
-    
+    font-weight: bold;
 }
 
 .title-link-2:hover {
@@ -201,7 +200,7 @@ hr {
 }
 
 #newsletter-image img {
-   width: 80%; 
+   width: 70%; 
    margin: 25px; 
    padding: 25px;
 }
