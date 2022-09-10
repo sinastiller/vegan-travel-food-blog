@@ -15,9 +15,11 @@ nav {
     background-color: #e5dedc;
     overflow: auto;
 }
+
 /* headings and logo */
 
-h1, h2 {
+h1,
+h2 {
     font-family: 'Playfair Display', sans-serif;
 }
 
@@ -28,7 +30,7 @@ h1, h2 {
     width: 60px;
     margin: 5px 20px;
     padding: 5px;
-   }
+}
 
 /* navigation bar links */
 
@@ -38,7 +40,8 @@ h1, h2 {
     letter-spacing: 2px;
 }
 
-#menu, #logo {
+#menu,
+#logo {
     line-height: 80px;
 }
 
@@ -55,7 +58,7 @@ h1, h2 {
 
 #menu a:hover {
     color: #3f4826;
-    border-bottom:  2px solid #3a3a3a;
+    border-bottom: 2px solid #3a3a3a;
 }
 
 /*The Hero Image*/
@@ -97,7 +100,7 @@ h1, h2 {
 
 .our-story:hover {
     background-color: #1f3b33;
-    color: white ;
+    color: white;
 }
 
 /* Latest Blog Post Section */
@@ -140,14 +143,15 @@ hr {
 
 .title-link:hover {
     color: #336053;
-    border-bottom:  2px solid #3a3a3a;
+    border-bottom: 2px solid #3a3a3a;
 }
+
 .latest-posts-title {
     padding: 5px;
     text-align: center;
 }
 
-.latest-posts-body > hr {
+.latest-posts-body>hr {
     border-top: 2px solid #3a3a3a;
     width: 60%;
     margin: 2px auto;
@@ -161,13 +165,13 @@ hr {
 .title-link-2 {
     color: #3a3a3a;
     text-decoration: none;
-    background-color: rgba(125, 146, 66, 0.2); 
-    text-transform: uppercase; 
+    background-color: rgba(125, 146, 66, 0.2);
+    text-transform: uppercase;
     font-weight: bold;
 }
 
 .title-link-2:hover {
-    color: #7d9242;  
+    color: #7d9242;
 }
 
 /* Newsletter Section */
@@ -197,9 +201,9 @@ hr {
 }
 
 #newsletter-image img {
-   width: 70%; 
-   margin: 25px; 
-   padding: 25px;
+    width: 70%;
+    margin: 25px;
+    padding: 25px;
 }
 
 #newsletter-content {
@@ -209,13 +213,13 @@ hr {
     margin: 10px;
 }
 
-#newsletter-content h3{
+#newsletter-content h3 {
     font-family: 'Playfair Display', sans-serif;
     font-size: xx-large;
     letter-spacing: 1px;
     padding: 30px 20px 0 20px;
     text-transform: uppercase;
-    
+
 }
 
 #newsletter-content hr {
@@ -257,12 +261,12 @@ input::placeholder {
 }
 
 .text-input:focus {
-    border: 2px solid rgb(58, 58, 58,0.4)
+    border: 2px solid rgb(58, 58, 58, 0.4)
 }
 
 .text-input:hover {
     transition: 0.4s;
-    border-color: rgb(58, 58, 58,0.6);
+    border-color: rgb(58, 58, 58, 0.6);
 }
 
 .newsletter-button {
@@ -293,9 +297,9 @@ footer {
 
 .social-networks {
     text-align: center;
-} 
+}
 
-.social-networks > li {
+.social-networks>li {
     display: inline;
 }
 
@@ -333,7 +337,7 @@ footer {
     max-height: 500px;
     width: 100%;
     margin-bottom: 20px;
-    object-fit:contain;
+    object-fit: contain;
 }
 
 .about-us-content p {
@@ -351,10 +355,10 @@ footer {
 }
 
 .travel-post {
-    
+
     max-width: 900px;
-    margin: 40px auto;  
-    padding: 0 30px;  
+    margin: 40px auto;
+    padding: 0 30px;
 }
 
 .travel-post-heading {
@@ -381,16 +385,16 @@ footer {
     padding: 20px 0;
 }
 
-.travel-post li {
-    font-size: 120%;
+.travel-post h3 {
+    font-size: 130%;
     font-weight: bold;
 }
 
-li > p {
-    line-height: 20px;
+h3 ~ p {
+    line-height: 22px;
 }
 
-article > p {
+h2 ~ p {
     font-size: 110%;
     line-height: 30px;
 }
