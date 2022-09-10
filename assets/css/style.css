@@ -119,13 +119,12 @@ hr {
     justify-content: space-evenly;
     align-items: center;
     align-content: center;
-    height: 600px;
     margin: 40px auto;
 }
 
 .latest-posts-body {
-    min-height: 500px;
     width: 25%;
+    margin: auto;
 }
 
 .latest-posts-image {
@@ -345,4 +344,29 @@ footer {
     margin-top: 20px;
     line-height: 25px;
     letter-spacing: 1px;
+}
+
+#travel-heading {
+    text-align: center;
+    font-size: 300%;
+    margin: 20px auto;
+}
+
+.travel-post {
+    height: 800px;
+    width: 100%;
+}
+
+.travel-post-heading {
+    text-align: center;
+    font-size: 150%;
+    margin: 20px auto;
+}
+
+.travel-post img {
+    display: block;
+    height: 400px;
+    width: 40%;
+    text-align: center;
+    margin: 30px auto;
 }
