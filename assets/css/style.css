@@ -398,3 +398,56 @@ h2 ~ p {
     font-size: 110%;
     line-height: 30px;
 }
+
+
+/* food.html */
+
+#food-heading {
+    text-align: center;
+    font-size: 300%;
+    margin: 20px auto;
+}
+
+.food-post {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 0 30px;
+}
+
+.food-post-heading {
+    text-align: center;
+    font-size: 150%;
+    margin: 20px auto;
+}
+
+.food-post img {
+    display: block;
+    max-height: 400px;
+    width: 40%;
+    text-align: center;
+    margin: 30px auto;
+}
+
+.food-post hr {
+    border: none;
+    margin: 20px auto;
+}
+
+.food-post ol {
+    margin: 20px 0;
+    padding: 20px 0;
+}
+
+.food-post h3 {
+    font-size: 130%;
+    font-weight: bold;
+}
+
+/* h3 ~ p {
+    line-height: 22px;
+}
+
+h2 ~ p {
+    font-size: 110%;
+    line-height: 30px;
+} */
