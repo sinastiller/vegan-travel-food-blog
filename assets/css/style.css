@@ -343,7 +343,7 @@ footer {
 .about-us-content p {
     margin-top: 20px;
     line-height: 25px;
-    letter-spacing: 1px;
+    letter-spacing: 0.5px;
 }
 
 /*travel.html*/
