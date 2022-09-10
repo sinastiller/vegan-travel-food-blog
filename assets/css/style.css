@@ -136,6 +136,11 @@ hr {
     object-fit: cover;
 }
 
+.latest-posts-image:hover {
+    transition: 0.4s;
+    opacity: 0.6;
+}
+
 .title-link {
     text-decoration: none;
     color: #3a3a3a;
