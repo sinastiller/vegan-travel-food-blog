@@ -351,8 +351,10 @@ footer {
 }
 
 .travel-post {
-    /* height: 800px; */
-    width: 100%;
+    
+    max-width: 900px;
+    margin: 40px auto;  
+    padding: 0 30px;  
 }
 
 .travel-post-heading {
@@ -367,4 +369,28 @@ footer {
     width: 40%;
     text-align: center;
     margin: 30px auto;
+}
+
+.travel-post hr {
+    border: none;
+    margin: 20px auto;
+}
+
+.travel-post ol {
+    margin: 20px 0;
+    padding: 20px 0;
+}
+
+.travel-post li {
+    font-size: 120%;
+    font-weight: bold;
+}
+
+li > p {
+    line-height: 20px;
+}
+
+article > p {
+    font-size: 110%;
+    line-height: 30px;
 }
