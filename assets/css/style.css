@@ -526,6 +526,15 @@ h2~p {
     #food-heading {
         font-size: 250%;
     }
+
+    #about-us-heading {
+        font-size: 250%;
+    }
+
+    .about-us-content p {
+        line-height: 20px;
+        font-size: 90%;
+    }
 }
 
 /* Screen-sizes up to 600px */
@@ -550,6 +559,14 @@ h2~p {
         font-size: 150%;
         margin: 1%;
         padding: 0 10px;
+    }
+
+    #about-us {
+        flex-direction: column;
+    }
+
+    .about-us-content {
+        width: 60%;
     }
 }
 
