@@ -284,7 +284,7 @@ input::placeholder {
     padding: 12px 24px;
     text-align: center;
     font-size: 100%;
-    background-color: #58A690;
+    background-color: #325e52;
     color: #ffffff;
     transition-duration: 0.4s;
     text-transform: uppercase;
@@ -292,7 +292,7 @@ input::placeholder {
 }
 
 .newsletter-button:hover {
-    background-color: rgba(88, 166, 144, 0.8);
+    background-color: rgb(50, 94, 82, 0.7);
 }
 
 /* Footer */
