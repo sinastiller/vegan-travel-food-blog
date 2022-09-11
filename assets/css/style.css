@@ -460,6 +460,7 @@ h2~p {
         width: 70%;
     }
 }
+
 /* Screen-sizes up to 992px */
 @media screen and (max-width: 992px) {
     #latest-posts {
@@ -509,6 +510,18 @@ h2~p {
         margin: 1%;
         padding: 0 10px;
     }
+
+    #travel-heading {
+        font-size: 250%;
+    }
+
+    h2~p {
+        font-size: 100%;
+    }
+
+    h3~p {
+        font-size: 90%;
+    }
 }
 
 /* Screen-sizes up to 600px */
@@ -556,5 +569,22 @@ h2~p {
 
     #newsletter-content p {
         font-size: small;
+    }
+
+    #travel-heading {
+        font-size: 200%;
+    }
+
+    .travel-post-heading {
+        font-size: 110%;
+        font-weight: bold;
+    }
+    
+    h2~p {
+        font-size: 90%;
+    }
+
+    h3~p {
+        font-size: 80%;
     }
 }
