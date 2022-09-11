@@ -498,3 +498,14 @@ h2~p {
         gap: 15px;
     }
 }
+
+/* Screen-sizes up to 600px */
+@media screen and (max-width:600px) {
+    #newsletter-content h3 {
+        font-size: large;
+    }
+    
+    #newsletter-box {
+        width: 90%;
+    }
+}
