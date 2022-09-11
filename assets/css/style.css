@@ -10,45 +10,46 @@ body {
     color: #3a3a3a;
 }
 
-nav {
-    width: 100%;
-    background-color: #e5dedc;
-    overflow: auto;
-}
-
-/* headings and logo */
-
 h1,
 h2 {
     font-family: 'Playfair Display', sans-serif;
 }
 
+/* nav bar with logo and links */
+
+#header {
+    background-color: #e5dedc;
+    margin: 0 auto;
+    padding: 5px 10px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 #logo {
-    position: absolute;
-    float: left;
-    height: 60px;
-    width: 60px;
+    height: 50px;
+    width: 50px;
     margin: 5px 20px;
     padding: 5px;
 }
 
-/* navigation bar links */
-
 #menu {
-    float: right;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
     font-size: 120%;
+    padding: 0 40px;
     letter-spacing: 2px;
 }
 
-#menu,
-#logo {
-    line-height: 80px;
+#menu {
+    line-height: 50px;
 }
 
 #menu li {
-    display: inline;
     list-style-type: none;
-    margin-right: 50px;
 }
 
 #menu a {
@@ -394,11 +395,11 @@ footer {
     font-weight: bold;
 }
 
-h3 ~ p {
+h3~p {
     line-height: 22px;
 }
 
-h2 ~ p {
+h2~p {
     font-size: 110%;
     line-height: 30px;
 }
@@ -449,8 +450,8 @@ h2 ~ p {
 
 /* Media Queries */
 
-/* larger to medium screens up to 992px */
-@media screen and (max-width: 992px) { 
+/* Screen-sizes up to 992px */
+@media screen and (max-width: 992px) {
     #latest-posts {
         flex-direction: column;
     }
@@ -479,5 +480,4 @@ h2 ~ p {
     #blog-posts {
         font-size: 200%
     }
-
 }
