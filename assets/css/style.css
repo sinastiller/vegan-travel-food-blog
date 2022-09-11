@@ -476,8 +476,8 @@ h2~p {
         flex-direction: column;
     }
 
-    #newsletter-image {
-        width: 70%;
+    #newsletter-image img {
+        display: none;
     }
 
     #newsletter-content {
@@ -495,10 +495,6 @@ h2~p {
 
 /* Screen-sizes up to 768px */
 @media screen and (max-width: 768px) {
-    #newsletter-image img {
-        display: none;
-    }
-
     #header {
         flex-direction: column;
         padding: 10px;
