@@ -504,8 +504,31 @@ h2~p {
     #newsletter-content h3 {
         font-size: large;
     }
-    
+
     #newsletter-box {
         width: 90%;
+    }
+}
+
+/*Screen-sizes up to 490 px*/
+
+@media screen and (max-width:490px) {
+    #menu {
+        line-height: 20px;
+        gap: 15px;
+        font-size: 90%;
+        padding: 10px 20px;
+    }
+
+    #blog-posts {
+        font-size: 180%;
+    }
+
+    .latest-posts-body {
+        width: 70%;
+    }
+
+    #newsletter-content p {
+        font-size: small;
     }
 }
