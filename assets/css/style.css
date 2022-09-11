@@ -207,8 +207,7 @@ hr {
 
 #newsletter-image img {
     width: 70%;
-    margin: 25px;
-    padding: 25px;
+    margin: 25px auto;
 }
 
 #newsletter-content {
@@ -446,4 +445,39 @@ h2 ~ p {
 .food-post h3 {
     font-size: 130%;
     font-weight: bold;
+}
+
+/* Media Queries */
+
+/* larger to medium screens up to 992px */
+@media screen and (max-width: 992px) { 
+    #latest-posts {
+        flex-direction: column;
+    }
+
+    .latest-posts-body {
+        width: 50%;
+        margin-bottom: 30px;
+    }
+
+    #newsletter-box {
+        flex-direction: column;
+    }
+
+    #newsletter-image {
+        width: 70%;
+    }
+
+    #newsletter-content {
+        width: 80%;
+    }
+
+    .hero-text {
+        font-size: x-large;
+    }
+
+    #blog-posts {
+        font-size: 200%
+    }
+
 }
