@@ -522,6 +522,10 @@ h2~p {
     h3~p {
         font-size: 90%;
     }
+
+    #food-heading {
+        font-size: 250%;
+    }
 }
 
 /* Screen-sizes up to 600px */
@@ -577,7 +581,6 @@ h2~p {
 
     .travel-post-heading {
         font-size: 110%;
-        font-weight: bold;
     }
     
     h2~p {
@@ -586,5 +589,13 @@ h2~p {
 
     h3~p {
         font-size: 80%;
+    }
+
+    #food-heading {
+        font-size: 200%;
+    }
+
+    .food-post-heading {
+        font-size: 110%;
     }
 }
