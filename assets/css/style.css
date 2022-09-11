@@ -85,7 +85,7 @@ h2 {
 }
 
 .hero-text p {
-    font-size: large;
+    font-size: x-large;
 }
 
 /* Our Story Button */
@@ -454,6 +454,12 @@ h2~p {
 
 /* Media Queries */
 
+/* Screen-sizes up to 1200px */
+@media screen and (max-width:1200px) {
+    #newsletter-box {
+        width: 70%;
+    }
+}
 /* Screen-sizes up to 992px */
 @media screen and (max-width: 992px) {
     #latest-posts {
@@ -507,6 +513,14 @@ h2~p {
 
     #newsletter-box {
         width: 90%;
+    }
+
+    .hero-text {
+        font-size: large;
+    }
+
+    .hero-text p {
+        font-size: medium;
     }
 }
 
