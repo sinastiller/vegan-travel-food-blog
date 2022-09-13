@@ -40,6 +40,7 @@ h2 {
     justify-content: center;
     gap: 30px;
     font-size: 100%;
+    font-weight: bold;
     padding: 0 40px;
     letter-spacing: 2px;
 }
@@ -60,6 +61,10 @@ h2 {
 #menu a:hover {
     color: #3f4826;
     border-bottom: 2px solid #3a3a3a;
+}
+
+.active {
+    border-bottom: 1px solid #3a3a3a;
 }
 
 /*The Hero Image*/
