@@ -185,6 +185,7 @@ Please find the carried out testing on [TESTING.md](TESTING.md).
  * [MDN Web Docs](#https://developer.mozilla.org/en-US/docs/Web/CSS/::placeholder) guided me to style the placeholder text for the newsletter form inputs.
  * [W3C](#https://www.w3schools.com/css/tryit.asp?filename=trycss_form_focus2) was used as a guide to focus the border of the newsletter input fields.
  * [Kera Cudmore's Milestone1 Template](#https://github.com/kera-cudmore/readme-examples/blob/main/milestone1-readme.md#futute-implementations) was used as a guide for the README.md.
+ * [W3Docs](#https://www.w3docs.com/snippets/html/how-to-create-an-anchor-link-to-jump-to-a-specific-part-of-a-page.html) was a guide to create an anchor link of the Dublin Blog Post to its exact location in food.html.
 
 ## [Content](#content)
 

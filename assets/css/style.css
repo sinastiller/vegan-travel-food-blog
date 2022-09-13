@@ -70,7 +70,7 @@ h2 {
 /*The Hero Image*/
 
 .hero-image {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../images/hero-image.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../images/hero-image.webp');
     height: 600px;
     width: 100%;
     background-position: center;
