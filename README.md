@@ -176,13 +176,40 @@ Please find the carried out testing on [TESTING.md](TESTING.md).
 ## [Credits](#credits)
     
 ### [Code Used](#code-used)
+ * The [Love Running Project](#https://github.com/sinastiller/love-running) was referenced throught the website.
+ * [W3C Schools](#https://www.w3schools.com/) was referenced throught the project for html syntax and styling.
+ * [YouTube](#https://www.youtube.com/) has been a great resource for tutorials and explanations.
+ * [Link1](#https://www.youtube.com/watch?v=fYq5PXgSsbE), [Link2](#https://www.youtube.com/watch?v=FTlczfR82mQ) and [CSS Tricks](#https://css-tricks.com/snippets/css/a-guide-to-flexbox/) helped me to learn about Flexbox and introduce it into my project.
+ * [YouTube Video](#https://www.youtube.com/watch?v=QNVrgzV66rY) used as a guide when creating the blog post cards on the Homepage.
+ * [MDN Web Docs](#https://developer.mozilla.org/en-US/docs/Web/CSS/::placeholder) guided me to style the placeholder text for the newsletter form inputs.
+ * [W3C] (#https://www.w3schools.com/css/tryit.asp?filename=trycss_form_focus2) was used as a guide to focus the border of the newsletter input fields.
+ * [Kera Cudmore's Milestone1 Template](#https://github.com/kera-cudmore/readme-examples/blob/main/milestone1-readme.md#futute-implementations) was used as a guide for the README.md
 
+## [Content](#content)
 
+* All the text-content on the website was written by myself. I have travelled to various places and used my knowledge and research to create the posts.
+* The imagery was taken from various websites of the internet.
 
+## [Media](#media)
 
+* [Unsplash](#http://www.unsplash.com/) for various images.
+* [Pexels](#http://www.pexels.com/ ) for various images.
+* [The Shanti Residence](#https://www.booking.com/hotel/id/the-shanti-residence.en-gb.html?aid=356980&label=gog235jc-1DCAsoaEIUdGhlLXNoYW50aS1yZXNpZGVuY2VIM1gDaGmIAQGYAQm4ARfIAQ_YAQPoAQGIAgGoAgO4Ao338ZgGwAIB0gIkZmQwMWFiNTMtMTk1MS00OTNkLWI2YjgtMDY0NzNhZjg2ZDAx2AIE4AIB&sid=d91204a5d2838517aa44934bc484de36&dist=0&keep_landing=1&sb_price_type=total&type=total&
+)
+* [Chapung Sebali](#https://www.onceinalifetimejourney.com/reviews/hotel-resorts/chapung-se-bali-ubuds-sexy-hip-resort/)
+* [Bali Eco Stay](#https://www.baliecostay.com/)
+* [Cafe Vux](#https://www.happycow.net/reviews/cafe-vux-berlin-19181)
+* [Kopps](#https://www.kopps-berlin.de/de/food/)
+* [FREA](#https://www.tripadvisor.com/Restaurant_Review-g187323-d16818974-Reviews-FREA-Berlin.html)
+* [Brammibals Donuts](#https://www.brammibalsdonuts.com/ )
+* [Lucky Leek](#https://www.forberlinlovers.com/en/8-of-the-best-vegan-and-vegetarian-restaurants-in-berlin)
+* [Cornucopia](#https://cornucopia.ie/)
+* [Veginity](#https://veginity.com/index.php/menu)
+* [Glas Restaurant](#https://glasrestaurant.ie/)
 
+## [Acknowledgements](#acknowledgements)
 
-
+I would like to thank my mentor Jubril Akolade for his guidance, time and patience throughout the process of the project and the awesome Slack Community for always giving the much needed push and advice to stay motivated and eager to acchieve the end result!
 
 
 
