@@ -19,8 +19,7 @@ One Backpack For Two is a Travel and Food Blog all the vegans and also non-vegan
 * [Technologies Used](#technologies-used)
     * [Languages Used](#languages-used)
     * [Framworks, Libraries & Programs Used](#frameworks-libraries-programs-used)
-* [Deployment & Local Development](#deployment&local-development)
-    * [Deployment](#deployment)
+* [Deployment](#deployment)
 * [Testing](#testing)
 * [Credits](#credits)
     * [Code Used](#code-used)
@@ -153,7 +152,25 @@ The About Us page gives the user the information about the creators of the websi
 * [Mozzilla Developer Tools](#https://firefox-source-docs.mozilla.org/devtools-user/) to test code or solve issues.
 * [Am I Responsive](#https://ui.dev/amiresponsive) to document the responsiveness on different devices.
 
+## [Deployment](#deployment)
 
+This project was created by using Gitpod. I used the pre-built tepmlate from [Code Institue](#https://github.com/Code-Institute-Org/gitpod-full-template).
+The following commands where used:
+* **python3 -m http.server** - to run a local server to view the project.
+* **git add .** - to add all the changes.
+* **git commit -m "..."** - to commit all the changes to the local repoitory.
+* **git push** - tp push the commited changes to the Github repository.
+
+### [Deployment using Github]
+1. Navigate to [project repository](#https://github.com/sinastiller/vegan-travel-food-blog).
+2. Click on the Settings Tab.
+3. Scroll down to pages.
+4. For the source selct main branch.
+5. Click save.
+6. Open the link provided by Github to go to deployed website.
+
+
+To deploy this website I used Github.
 
 
 
