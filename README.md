@@ -4,7 +4,7 @@ One Backpack For Two is a Travel and Food Blog all the vegans and also non-vegan
 
 ![Screenshot for responsiveness](images-readme/AmIResponsive.png)
 
-## Contens
+## Contents
 
 * [User Experience](#user-experience)
     * [User Stories](#user-story)
@@ -169,8 +169,10 @@ The following commands where used:
 5. Click save.
 6. Open the link provided by Github to go to deployed website.
 
+## [Testing](#testing)
 
-To deploy this website I used Github.
+Please find the carried out testing on [TESTING.md](TESTING.md).
+
 
 
 
