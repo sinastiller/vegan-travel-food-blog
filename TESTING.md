@@ -72,3 +72,4 @@ The following bugs were identified during testing and fixed accordingly :
 * Giving the footer a max-height helped making it better responsive.
 * The input field for email address in the form had the incorrect value, so i had to fix it to acchieve the dessired result.
 * When hitting the submit button for the newsletter form an error 404 page opened. I inserted the action to have it open to Code Institutes's form dump.
+* Resizing all the images on travel.html and food.html to be identical in size to acchieve better responsiveness. 
