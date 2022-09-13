@@ -125,6 +125,36 @@ The About Us page gives the user the information about the creators of the websi
 * A headshot of both women. 
 * A short paragraph about each individual to give the user some idea of who they are, what they are doing and why.
 
+### [Accessibility] (#accessibility)
+
+* For better accessibilty i I added alt-labels ti all my images for vision impaired users.
+* The acchieve the required colour contrast I used the tool [Colour Contrast Checker](#https://colourcontrast.cc/).
+
+## [Technologies Used](#technologies-used)
+
+### [Languages Used](#languages-used)
+
+* *HTML*
+* *CSS*
+
+### [Framworks, Libraries & Programs Used](#frameworks-libraries-programs-used)
+
+* [Adobe XD](#https://www.adobe.com/ie/products/xd.html) to create the wireframes.
+* [Git](#https://git-scm.com/) for version control.
+* [Gitpod](#https://www.gitpod.io/) for writing down the code and creating the website.
+* [Github](#https://github.com/) to save and store the progress and files used on the website.
+* [Google Fonts](#https://fonts.google.com/) to import the fonts used on the website.
+* [Adobe Logo Maker](#https://www.adobe.com/express/create/logo) to create the logo.
+* [Font Awesome](#https://fontawesome.com/) for the icons used on this website.
+* [W3C Validator](#https://validator.w3.org/) to validate HTML.
+* [W3C Jigsaw Validator](#https://jigsaw.w3.org/css-validator/) to validate CSS.
+* [Image Converter](#https://www.reduceimages.com/ ) to reduce size of images.
+* [Google Developer Tools](#https://developer.chrome.com/docs/) to test code or solve issues and too use lighthouse.
+* [Mozzilla Developer Tools](#https://firefox-source-docs.mozilla.org/devtools-user/) to test code or solve issues.
+* [Am I Responsive](#https://ui.dev/amiresponsive) to document the responsiveness on different devices.
+
+
+
 
 
 
