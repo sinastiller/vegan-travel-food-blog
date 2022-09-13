@@ -169,7 +169,8 @@ The following commands where used:
 3. Scroll down to pages.
 4. For the source select main branch.
 5. Click save.
-6. Open the link provided by Github to go to deployed website.
+6. Open the link provided by Github to go to deployed website. **[LiveLink](#https://sinastiller.github.io/vegan-travel-food-blog/)**
+
 
 ## [Testing](#testing)
 
