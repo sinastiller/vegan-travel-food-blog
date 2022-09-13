@@ -43,7 +43,7 @@ One Backpack For Two should be a page, on which users are able to get tips for t
 
 ![Colour Palette](images-readme/colour_palette.png)
 
-This website uses a palette of green and light pink tones and some variants of the same color scheme belonging to their color family. It was created by using [Adobe Express Free Logo Maker](#https://www.adobe.com/express/create/logo).
+This website uses a palette of green and light pink tones and some variants of the same color scheme belonging to their color family. It was created by using [Adobe Express Free Logo Maker](https://www.adobe.com/express/create/logo).
 
 ### [Typography](#typography)
 I have imported the following Google Fonts:
@@ -54,7 +54,7 @@ I have imported the following Google Fonts:
 Imagery is used regarding the travel and food content on the website. They are taken of various websites, which are credited down below in the [Credits](#credits) section.
 
 ### [Wireframes](#wireframes)
-I have used [Adobe XD](#https://www.adobe.com/ie/products/xd.html) to create the wireframes. Each wireframe stands for the four different .html pages. Boxes with an X-line stand for an image. Subject is to change during the production of this website.
+I have used [Adobe XD](https://www.adobe.com/ie/products/xd.html) to create the wireframes. Each wireframe stands for the four different .html pages. Boxes with an X-line stand for an image. Subject is to change during the production of this website.
 ![Wireframes](images-readme/wireframes.png)
 
 ## [Features](#features)
@@ -128,7 +128,7 @@ The About Us page gives the user the information about the creators of the websi
 ### [Accessibility](#accessibility)
 
 * For better accessibilty i I added alt-labels to all my images for vision impaired users.
-* To acchieve the required colour contrast I used the tool [Colour Contrast Checker](#https://colourcontrast.cc/).
+* To acchieve the required colour contrast I used the tool [Colour Contrast Checker](https://colourcontrast.cc/).
 
 ## [Technologies Used](#technologies-used)
 
@@ -139,24 +139,24 @@ The About Us page gives the user the information about the creators of the websi
 
 ### [Frameworks, Libraries & Programs Used](#frameworks-libraries-programs-used)
 
-* [Adobe XD](#https://www.adobe.com/ie/products/xd.html) to create the wireframes.
-* [Git](#https://git-scm.com/) for version control.
-* [Gitpod](#https://www.gitpod.io/) for writing down the code and creating the website.
-* [Github](#https://github.com/) to save and store the progress and files used on the website.
-* [Google Fonts](#https://fonts.google.com/) to import the fonts used on the website.
-* [Adobe Logo Maker](#https://www.adobe.com/express/create/logo) to create the logo.
-* [Font Awesome](#https://fontawesome.com/) for the icons used on this website.
-* [W3C Validator](#https://validator.w3.org/) to validate HTML.
-* [W3C Jigsaw Validator](#https://jigsaw.w3.org/css-validator/) to validate CSS.
-* [Image Converter](#https://www.reduceimages.com/ ) to reduce size of images.
-* [Google Developer Tools](#https://developer.chrome.com/docs/) to test code or solve issues and too use lighthouse.
-* [Mozzilla Developer Tools](#https://firefox-source-docs.mozilla.org/devtools-user/) to test code or solve issues.
-* [Am I Responsive](#https://ui.dev/amiresponsive) to document the responsiveness on different devices.
-* [Image Converter1](#https://convertio.co/download/) and [Image Converter2](#https://cloudconvert.com/) to convert images from .jpeg to .webp.
+* [Adobe XD](https://www.adobe.com/ie/products/xd.html) to create the wireframes.
+* [Git](https://git-scm.com/) for version control.
+* [Gitpod](https://www.gitpod.io/) for writing down the code and creating the website.
+* [Github](https://github.com/) to save and store the progress and files used on the website.
+* [Google Fonts](https://fonts.google.com/) to import the fonts used on the website.
+* [Adobe Logo Maker](https://www.adobe.com/express/create/logo) to create the logo.
+* [Font Awesome](https://fontawesome.com/) for the icons used on this website.
+* [W3C Validator](https://validator.w3.org/) to validate HTML.
+* [W3C Jigsaw Validator](https://jigsaw.w3.org/css-validator/) to validate CSS.
+* [Image Converter](https://www.reduceimages.com/ ) to reduce size of images.
+* [Google Developer Tools](https://developer.chrome.com/docs/) to test code or solve issues and too use lighthouse.
+* [Mozzilla Developer Tools](https://firefox-source-docs.mozilla.org/devtools-user/) to test code or solve issues.
+* [Am I Responsive](https://ui.dev/amiresponsive) to document the responsiveness on different devices.
+* [Image Converter1](https://convertio.co/download/) and [Image Converter2](https://cloudconvert.com/) to convert images from .jpeg to .webp.
 
 ## [Deployment](#deployment)
 
-This project was created by using Gitpod. I used the pre-built template from [Code Institue](#https://github.com/Code-Institute-Org/gitpod-full-template).
+This project was created by using Gitpod. I used the pre-built template from [Code Institue](https://github.com/Code-Institute-Org/gitpod-full-template).
 The following commands where used:
 * **python3 -m http.server** - to run a local server to view the project.
 * **git add .** - to add all the changes.
@@ -164,12 +164,12 @@ The following commands where used:
 * **git push** - to push the commited changes to the Github repository.
 
 ### Deployment using Github
-1. Navigate to [project repository](#https://github.com/sinastiller/vegan-travel-food-blog).
+1. Navigate to [project repository](https://github.com/sinastiller/vegan-travel-food-blog).
 2. Click on the Settings Tab.
 3. Scroll down to pages.
 4. For the source select main branch.
 5. Click save.
-6. Open the link provided by Github to go to deployed website. **[LiveLink](#https://sinastiller.github.io/vegan-travel-food-blog/)**
+6. Open the link provided by Github to go to deployed website. **[LiveLink](https://sinastiller.github.io/vegan-travel-food-blog/)**
 
 
 ## [Testing](#testing)
@@ -179,15 +179,15 @@ Please find the carried out testing on [TESTING.md](TESTING.md).
 ## [Credits](#credits)
     
 ### [Code Used](#code-used)
- * The [Love Running Project](#https://github.com/sinastiller/love-running) was referenced throught the website.
- * [W3C Schools](#https://www.w3schools.com/) was referenced throught the project for html syntax and styling.
- * [YouTube](#https://www.youtube.com/) has been a great resource for tutorials and explanations.
- * [Link1](#https://www.youtube.com/watch?v=fYq5PXgSsbE), [Link2](#https://www.youtube.com/watch?v=FTlczfR82mQ) and [CSS Tricks](#https://css-tricks.com/snippets/css/a-guide-to-flexbox/) helped me to learn about Flexbox and introduce it into my project.
- * [YouTube Video](#https://www.youtube.com/watch?v=QNVrgzV66rY) used as a guide when creating the blog post cards on the Homepage.
- * [MDN Web Docs](#https://developer.mozilla.org/en-US/docs/Web/CSS/::placeholder) guided me to style the placeholder text for the newsletter form inputs.
- * [W3C](#https://www.w3schools.com/css/tryit.asp?filename=trycss_form_focus2) was used as a guide to focus the border of the newsletter input fields.
- * [Kera Cudmore's Milestone1 Template](#https://github.com/kera-cudmore/readme-examples/blob/main/milestone1-readme.md#futute-implementations) was used as a guide for the README.md.
- * [W3Docs](#https://www.w3docs.com/snippets/html/how-to-create-an-anchor-link-to-jump-to-a-specific-part-of-a-page.html) was a guide to create an anchor link of the Dublin Blog Post to its exact location in food.html.
+ * The [Love Running Project](https://github.com/sinastiller/love-running) was referenced throught the website.
+ * [W3C Schools](https://www.w3schools.com/) was referenced throught the project for html syntax and styling.
+ * [YouTube](https://www.youtube.com/) has been a great resource for tutorials and explanations.
+ * [Link1](https://www.youtube.com/watch?v=fYq5PXgSsbE), [Link2](https://www.youtube.com/watch?v=FTlczfR82mQ) and [CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) helped me to learn about Flexbox and introduce it into my project.
+ * [YouTube Video](https://www.youtube.com/watch?v=QNVrgzV66rY) used as a guide when creating the blog post cards on the Homepage.
+ * [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/::placeholder) guided me to style the placeholder text for the newsletter form inputs.
+ * [W3C](https://www.w3schools.com/css/tryit.asp?filename=trycss_form_focus2) was used as a guide to focus the border of the newsletter input fields.
+ * [Kera Cudmore's Milestone1 Template](https://github.com/kera-cudmore/readme-examples/blob/main/milestone1-readme.md#futute-implementations) was used as a guide for the README.md.
+ * [W3Docs](https://www.w3docs.com/snippets/html/how-to-create-an-anchor-link-to-jump-to-a-specific-part-of-a-page.html) was a guide to create an anchor link of the Dublin Blog Post to its exact location in food.html.
 
 ## [Content](#content)
 
@@ -196,20 +196,20 @@ Please find the carried out testing on [TESTING.md](TESTING.md).
 
 ## [Media](#media)
 
-* [Unsplash](#http://www.unsplash.com/) for various images.
-* [Pexels](#http://www.pexels.com/ ) for various images.
-* [The Shanti Residence](#https://www.booking.com/hotel/id/the-shanti-residence.en-gb.html?aid=356980&label=gog235jc-1DCAsoaEIUdGhlLXNoYW50aS1yZXNpZGVuY2VIM1gDaGmIAQGYAQm4ARfIAQ_YAQPoAQGIAgGoAgO4Ao338ZgGwAIB0gIkZmQwMWFiNTMtMTk1MS00OTNkLWI2YjgtMDY0NzNhZjg2ZDAx2AIE4AIB&sid=d91204a5d2838517aa44934bc484de36&dist=0&keep_landing=1&sb_price_type=total&type=total&
+* [Unsplash](http://www.unsplash.com/) for various images.
+* [Pexels](http://www.pexels.com/ ) for various images.
+* [The Shanti Residence](https://www.booking.com/hotel/id/the-shanti-residence.en-gb.html?aid=356980&label=gog235jc-1DCAsoaEIUdGhlLXNoYW50aS1yZXNpZGVuY2VIM1gDaGmIAQGYAQm4ARfIAQ_YAQPoAQGIAgGoAgO4Ao338ZgGwAIB0gIkZmQwMWFiNTMtMTk1MS00OTNkLWI2YjgtMDY0NzNhZjg2ZDAx2AIE4AIB&sid=d91204a5d2838517aa44934bc484de36&dist=0&keep_landing=1&sb_price_type=total&type=total&
 )
-* [Chapung Sebali](#https://www.onceinalifetimejourney.com/reviews/hotel-resorts/chapung-se-bali-ubuds-sexy-hip-resort/)
-* [Bali Eco Stay](#https://www.baliecostay.com/)
-* [Cafe Vux](#https://www.happycow.net/reviews/cafe-vux-berlin-19181)
-* [Kopps](#https://www.kopps-berlin.de/de/food/)
-* [FREA](#https://www.tripadvisor.com/Restaurant_Review-g187323-d16818974-Reviews-FREA-Berlin.html)
-* [Brammibals Donuts](#https://www.brammibalsdonuts.com/ )
-* [Lucky Leek](#https://www.forberlinlovers.com/en/8-of-the-best-vegan-and-vegetarian-restaurants-in-berlin)
-* [Cornucopia](#https://cornucopia.ie/)
-* [Veginity](#https://veginity.com/index.php/menu)
-* [Glas Restaurant](#https://glasrestaurant.ie/)
+* [Chapung Sebali](https://www.onceinalifetimejourney.com/reviews/hotel-resorts/chapung-se-bali-ubuds-sexy-hip-resort/)
+* [Bali Eco Stay](https://www.baliecostay.com/)
+* [Cafe Vux](https://www.happycow.net/reviews/cafe-vux-berlin-19181)
+* [Kopps](https://www.kopps-berlin.de/de/food/)
+* [FREA](https://www.tripadvisor.com/Restaurant_Review-g187323-d16818974-Reviews-FREA-Berlin.html)
+* [Brammibals Donuts](https://www.brammibalsdonuts.com/ )
+* [Lucky Leek](https://www.forberlinlovers.com/en/8-of-the-best-vegan-and-vegetarian-restaurants-in-berlin)
+* [Cornucopia](https://cornucopia.ie/)
+* [Veginity](https://veginity.com/index.php/menu)
+* [Glas Restaurant](https://glasrestaurant.ie/)
 
 ## [Acknowledgements](#acknowledgements)
 
