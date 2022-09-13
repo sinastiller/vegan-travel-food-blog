@@ -152,6 +152,7 @@ The About Us page gives the user the information about the creators of the websi
 * [Google Developer Tools](#https://developer.chrome.com/docs/) to test code or solve issues and too use lighthouse.
 * [Mozzilla Developer Tools](#https://firefox-source-docs.mozilla.org/devtools-user/) to test code or solve issues.
 * [Am I Responsive](#https://ui.dev/amiresponsive) to document the responsiveness on different devices.
+* [Image Converter1](#https://convertio.co/download/) and [Image Converter2](#https://cloudconvert.com/) to convert images from .jpeg to .webp.
 
 ## [Deployment](#deployment)
 
