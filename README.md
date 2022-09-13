@@ -173,6 +173,10 @@ The following commands where used:
 
 Please find the carried out testing on [TESTING.md](TESTING.md).
 
+## [Credits](#credits)
+    
+### [Code Used](#code-used)
+
 
 
 
