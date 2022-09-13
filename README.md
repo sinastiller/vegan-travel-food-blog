@@ -1,6 +1,6 @@
 # One Backpack For Two
 
-One Backpack For Two is a Travel and Food Blog all the vegans and also non-vegans out there. It should provide them with some advice on finding the best spots for vegan accomodation and fantastic food businesses with a delicious vegan menu or vegan options. Lila and Saskia finding the best suited options for everyone and giving a little overview for the different discovieries in various locations. People can use it as a travel and food guide for themselves. 
+One Backpack For Two is a Travel and Food Blog for all the vegans and also non-vegans out there. It should provide them with some advice on finding the best spots for vegan accomodation and fantastic food businesses with a delicious vegan menu or vegan options. Lila and Saskia finding the best suited options for everyone and giving a little overview of the different discovieries in various locations. People can use it as a travel and food guide for themselves. 
 
 ![Screenshot for responsiveness](images-readme/AmIResponsive.png)
 
@@ -18,7 +18,7 @@ One Backpack For Two is a Travel and Food Blog all the vegans and also non-vegan
     * [Accessibility](#accessibility)
 * [Technologies Used](#technologies-used)
     * [Languages Used](#languages-used)
-    * [Framworks, Libraries & Programs Used](#frameworks-libraries-programs-used)
+    * [Frameworks, Libraries & Programs Used](#frameworks-libraries-programs-used)
 * [Deployment](#deployment)
 * [Testing](#testing)
 * [Credits](#credits)
@@ -28,7 +28,7 @@ One Backpack For Two is a Travel and Food Blog all the vegans and also non-vegan
     * [Acknowledgements](#acknowledgements)
 
 ## [User Experience](#user-experience)
-One Backpack For Two should be a page, on which users are able to get tips for their vegan travel and culinary spots.
+One Backpack For Two should be a page, on which users are able to get tips for their vegan travel and vegan culinary spots.
 ### [User Stories](#user-story)
 * First-time visitors:
     * should be able to find out what the page is about.
@@ -42,6 +42,7 @@ One Backpack For Two should be a page, on which users are able to get tips for t
 ### [Colour Scheme](#colour-scheme)
 
 ![Colour Palette](images-readme/colour_palette.png)
+
 This website uses a palette of green and light pink tones and some variants of the same color scheme belonging to their color family. It was created by using [Adobe Express Free Logo Maker](#https://www.adobe.com/express/create/logo).
 
 ### [Typography](#typography)
@@ -70,7 +71,7 @@ All of the pages contain:
 ![Navigation Bar](images-readme/navigationbar.png)
 
 * A responsive footer:
-    * The footer contains the social media icons of Facebook, Instagram, Twitter and Pinterest and open all on a new tab when clicked on.
+    * The footer contains the social media icons of Facebook, Instagram, Twitter and Pinterest, that open all in a new tab when clicked on.
 
 ![Footer](images-readme/footer.png)
 
@@ -124,10 +125,10 @@ The About Us page gives the user the information about the creators of the websi
 * A headshot of both women. 
 * A short paragraph about each individual to give the user some idea of who they are, what they are doing and why.
 
-### [Accessibility] (#accessibility)
+### [Accessibility](#accessibility)
 
-* For better accessibilty i I added alt-labels ti all my images for vision impaired users.
-* The acchieve the required colour contrast I used the tool [Colour Contrast Checker](#https://colourcontrast.cc/).
+* For better accessibilty i I added alt-labels to all my images for vision impaired users.
+* To acchieve the required colour contrast I used the tool [Colour Contrast Checker](#https://colourcontrast.cc/).
 
 ## [Technologies Used](#technologies-used)
 
@@ -136,7 +137,7 @@ The About Us page gives the user the information about the creators of the websi
 * *HTML*
 * *CSS*
 
-### [Framworks, Libraries & Programs Used](#frameworks-libraries-programs-used)
+### [Frameworks, Libraries & Programs Used](#frameworks-libraries-programs-used)
 
 * [Adobe XD](#https://www.adobe.com/ie/products/xd.html) to create the wireframes.
 * [Git](#https://git-scm.com/) for version control.
@@ -154,18 +155,18 @@ The About Us page gives the user the information about the creators of the websi
 
 ## [Deployment](#deployment)
 
-This project was created by using Gitpod. I used the pre-built tepmlate from [Code Institue](#https://github.com/Code-Institute-Org/gitpod-full-template).
+This project was created by using Gitpod. I used the pre-built template from [Code Institue](#https://github.com/Code-Institute-Org/gitpod-full-template).
 The following commands where used:
 * **python3 -m http.server** - to run a local server to view the project.
 * **git add .** - to add all the changes.
-* **git commit -m "..."** - to commit all the changes to the local repoitory.
-* **git push** - tp push the commited changes to the Github repository.
+* **git commit -m "..."** - to commit all the changes to the local repository.
+* **git push** - to push the commited changes to the Github repository.
 
-### [Deployment using Github]
+### Deployment using Github
 1. Navigate to [project repository](#https://github.com/sinastiller/vegan-travel-food-blog).
 2. Click on the Settings Tab.
 3. Scroll down to pages.
-4. For the source selct main branch.
+4. For the source select main branch.
 5. Click save.
 6. Open the link provided by Github to go to deployed website.
 
@@ -182,8 +183,8 @@ Please find the carried out testing on [TESTING.md](TESTING.md).
  * [Link1](#https://www.youtube.com/watch?v=fYq5PXgSsbE), [Link2](#https://www.youtube.com/watch?v=FTlczfR82mQ) and [CSS Tricks](#https://css-tricks.com/snippets/css/a-guide-to-flexbox/) helped me to learn about Flexbox and introduce it into my project.
  * [YouTube Video](#https://www.youtube.com/watch?v=QNVrgzV66rY) used as a guide when creating the blog post cards on the Homepage.
  * [MDN Web Docs](#https://developer.mozilla.org/en-US/docs/Web/CSS/::placeholder) guided me to style the placeholder text for the newsletter form inputs.
- * [W3C] (#https://www.w3schools.com/css/tryit.asp?filename=trycss_form_focus2) was used as a guide to focus the border of the newsletter input fields.
- * [Kera Cudmore's Milestone1 Template](#https://github.com/kera-cudmore/readme-examples/blob/main/milestone1-readme.md#futute-implementations) was used as a guide for the README.md
+ * [W3C](#https://www.w3schools.com/css/tryit.asp?filename=trycss_form_focus2) was used as a guide to focus the border of the newsletter input fields.
+ * [Kera Cudmore's Milestone1 Template](#https://github.com/kera-cudmore/readme-examples/blob/main/milestone1-readme.md#futute-implementations) was used as a guide for the README.md.
 
 ## [Content](#content)
 
