@@ -1,6 +1,6 @@
 # One Backpack For Two
 
-One Backpack For Two is a Travel and Food Blog for all the vegans and also non-vegans out there. It should provide them with some advice on finding the best spots for vegan accommodation and fantastic food businesses with a delicious vegan menu or vegan options. Lila and Saskia finding the best suited options for everyone and giving a little overview of the different discoveries in various locations. People can use it as a travel and food guide for themselves. 
+One Backpack For Two is a Travel and Food Blog for all the vegans and also non-vegans out there. It should provide them with some advice on finding the best spots for vegan accommodation and fantastic food businesses with a delicious vegan menu or vegan options. Lila and Saskia finding the best-suited options for everyone and give a little overview of the different discoveries in various locations. People can use it as a travel and food guide for themselves. 
 
 ![Screenshot for responsiveness](images-readme/AmIResponsive.png)
 
@@ -28,7 +28,7 @@ One Backpack For Two is a Travel and Food Blog for all the vegans and also non-v
     * [Acknowledgements](#acknowledgements)
 
 ## [User Experience](#user-experience)
-One Backpack For Two should be a page, on which users are able to get tips for their vegan travel and vegan culinary spots.
+One Backpack For Two should be a page, on which users can get tips for their vegan travel and vegan culinary spots.
 ### [User Stories](#user-story)
 * First-time visitors:
     * should be able to find out what the page is about.
@@ -37,7 +37,7 @@ One Backpack For Two should be a page, on which users are able to get tips for t
     * should want to sign up for the monthly newsletter.
 * Returning visitors:
     * should be able to find newly updated content.
-    * should use the travel and food tips more frequently.
+    * should use travel and food tips more frequently.
 ## [Design](#design)
 ### [Colour Scheme](#colour-scheme)
 
@@ -51,7 +51,7 @@ I have imported the following Google Fonts:
 * Montserrat 300 for the body text on the website.
 
 ### [Imagery](#imagery)
-Imagery is used regarding the travel and food content on the website. They are taken of various websites, which are credited down below in the [Credits](#credits) section.
+Imagery is used regarding the travel and food content on the website. They are taken from various websites, which are credited down below in the [Credits](#credits) section.
 
 ### [Wireframes](#wireframes)
 I have used [Adobe XD](https://www.adobe.com/ie/products/xd.html) to create the wireframes. Each wireframe stands for the four different .html pages. Boxes with an X-line stand for an image. Subject is to change during the production of this website.
@@ -60,7 +60,7 @@ I have used [Adobe XD](https://www.adobe.com/ie/products/xd.html) to create the 
 ## [Features](#features)
 ### [General features on each page](#general-features-on-each-page)
 
-The website consists of a Homepage, Travel page, Food page and an About Us page.
+The website consists of a Homepage, Travel page, Food page, and an About Us page.
 
 All of the pages contain:
 * A responsive navigation bar:
@@ -71,13 +71,13 @@ All of the pages contain:
 ![Navigation Bar](images-readme/navigationbar.png)
 
 * A responsive footer:
-    * The footer contains the social media icons of Facebook, Instagram, Twitter and Pinterest, that open all in a new tab when clicked on.
+    * The footer contains the social media icons of Facebook, Instagram, Twitter, and Pinterest, which open all in a new tab when clicked on.
 
 ![Footer](images-readme/footer.png)
 
 ### The Home Page
 
-The Homepage as Main page contains the navigation bar at the top and the footer at the bottom and is divided into three sections.
+The Homepage as the Main page contains the navigation bar at the top and the footer at the bottom and is divided into three sections.
 #### Section 1 : Hero Image with Title
 
 ![Hero Image with Title](images-readme/heroimage.png)
@@ -89,8 +89,8 @@ The Homepage as Main page contains the navigation bar at the top and the footer 
 ![Latest Blog Posts](images-readme/latestposts.jpg)
 
 * The latest Blog Posts section contains three of the newest blog posts available on the website.
-* Each of the posts contains an image, a title and a quick summary of what to expect in the post.
-* Images, title and the "Top ..." are clickable links and bring you, when clicked, to each of the individual contents.
+* Each of the posts contains an image, a title, and a quick summary of what to expect in the post.
+* Images, title,  and the "Top ..." are clickable links and bring you, when clicked, to each of the individual contents.
 
 #### Section 3 : Newsletter Sign-Up Form
 
@@ -105,7 +105,7 @@ The Homepage as Main page contains the navigation bar at the top and the footer 
 ![Travel Page](images-readme/travelpost.jpg)
 
 The Travel Page is a regularly updated page containing all the travel posts on this website.
-* The main heading of Travel Posts on the top of the page.
+* The main heading of Travel Posts is located on the top of the page.
 * Below the main heading is the article located with a sub-heading, the same image as on the homepage, the date, when the article was created, the contents of the blog post with selected imagery for each blog post and a quick summary at the end.
 
 ### The Food Page
@@ -113,22 +113,22 @@ The Travel Page is a regularly updated page containing all the travel posts on t
 ![Food Page](images-readme/foodposts.jpg)
 
 The Food Page is a regularly updated page containing all the food posts on this website.
-* The main heading of Food Posts on the top of the page.
+* The main heading of Food Posts is on the top of the page.
 * Below the main heading is the article located with a sub-heading, the same image as on the homepage, the date, when the article was created, the contents of the blog post with selected imagery for each blog post and a quick summary at the end.
 
 ### The About Us Page
 
 ![About Us Page](images-readme/aboutus.jpg)
 
-The About Us page gives the user the information about the creators of the website.
+The About Us page gives the user information about the creators of the website.
 * The main heading "Who we are".
 * A headshot of both women. 
 * A short paragraph about each individual to give the user some idea of who they are, what they are doing and why.
 
 ### [Accessibility](#accessibility)
 
-* For better accessibility i I added alt-labels to all my images for vision impaired users.
-* To achieve the required colour contras,t I used the tool [Colour Contrast Checker](https://colourcontrast.cc/).
+* For better accessibility  I added alt-labels to all my images for vision-impaired users.
+* To achieve the required colour contrast, I used the tool [Colour Contrast Checker](https://colourcontrast.cc/).
 
 ## [Technologies Used](#technologies-used)
 
@@ -148,7 +148,7 @@ The About Us page gives the user the information about the creators of the websi
 * [Font Awesome](https://fontawesome.com/) for the icons used on this website.
 * [W3C Validator](https://validator.w3.org/) to validate HTML.
 * [W3C Jigsaw Validator](https://jigsaw.w3.org/css-validator/) to validate CSS.
-* [Image Converter](https://www.reduceimages.com/ ) to reduce size of images.
+* [Image Converter](https://www.reduceimages.com/ ) to reduce the size of images.
 * [Google Developer Tools](https://developer.chrome.com/docs/) to test code or solve issues and to use lighthouse.
 * [Mozilla Developer Tools](https://firefox-source-docs.mozilla.org/devtools-user/) to test code or solve issues.
 * [Am I Responsive](https://ui.dev/amiresponsive) to document the responsiveness on different devices.
@@ -169,7 +169,7 @@ The following commands were used:
 3. Scroll down to pages.
 4. For the source, select main branch.
 5. Click save.
-6. Open the link provided by Github to go to yhe deployed website. **[LiveLink](https://sinastiller.github.io/vegan-travel-food-blog/)**
+6. Open the link provided by Github to go to the deployed website. **[LiveLink](https://sinastiller.github.io/vegan-travel-food-blog/)**
 
 
 ## [Testing](#testing)
@@ -182,7 +182,7 @@ Please find the carried out testing on [TESTING.md](TESTING.md).
  * The [Love Running Project](https://github.com/sinastiller/love-running) was referenced throughout the website.
  * [W3C Schools](https://www.w3schools.com/) was referenced throughout the project for HTML syntax and styling.
  * [YouTube](https://www.youtube.com/) has been a great resource for tutorials and explanations.
- * [Link1](https://www.youtube.com/watch?v=fYq5PXgSsbE), [Link2](https://www.youtube.com/watch?v=FTlczfR82mQ) and [CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) helped me to learn about Flexbox and introduce it into my project.
+ * [Link1](https://www.youtube.com/watch?v=fYq5PXgSsbE), [Link2](https://www.youtube.com/watch?v=FTlczfR82mQ), and [CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) helped me to learn about Flexbox and introduce it to my project.
  * [YouTube Video](https://www.youtube.com/watch?v=QNVrgzV66rY) used as a guide when creating the blog post cards on the Homepage.
  * [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/::placeholder) guided me to style the placeholder text for the newsletter form inputs.
  * [W3C](https://www.w3schools.com/css/tryit.asp?filename=trycss_form_focus2) was used as a guide to focus the border of the newsletter input fields.
@@ -191,8 +191,8 @@ Please find the carried out testing on [TESTING.md](TESTING.md).
 
 ## [Content](#content)
 
-* All the text-content on the website was written by myself. I have travelled to various places and used my knowledge and research to create the posts.
-* The imagery was taken from various websites of the internet.
+* All the text content on the website was written by myself. I have traveled to various places and used my knowledge and research to create the posts.
+* The imagery was taken from various websites on the internet.
 
 ## [Media](#media)
 
