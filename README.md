@@ -1,6 +1,6 @@
 # One Backpack For Two
 
-One Backpack For Two is a Travel and Food Blog for all the vegans and also non-vegans out there. It should provide them with some advice on finding the best spots for vegan accomodation and fantastic food businesses with a delicious vegan menu or vegan options. Lila and Saskia finding the best suited options for everyone and giving a little overview of the different discovieries in various locations. People can use it as a travel and food guide for themselves. 
+One Backpack For Two is a Travel and Food Blog for all the vegans and also non-vegans out there. It should provide them with some advice on finding the best spots for vegan accommodation and fantastic food businesses with a delicious vegan menu or vegan options. Lila and Saskia finding the best suited options for everyone and giving a little overview of the different discoveries in various locations. People can use it as a travel and food guide for themselves. 
 
 ![Screenshot for responsiveness](images-readme/AmIResponsive.png)
 
@@ -43,11 +43,11 @@ One Backpack For Two should be a page, on which users are able to get tips for t
 
 ![Colour Palette](images-readme/colour_palette.png)
 
-This website uses a palette of green and light pink tones and some variants of the same color scheme belonging to their color family. It was created by using [Adobe Express Free Logo Maker](https://www.adobe.com/express/create/logo).
+This website uses a palette of green and light pink tones and some variants of the same colour scheme belonging to their colour family. It was created by using [Adobe Express Free Logo Maker](https://www.adobe.com/express/create/logo).
 
 ### [Typography](#typography)
 I have imported the following Google Fonts:
-* Playfair Display 500 for headings on website.
+* Playfair Display 500 for headings on the website.
 * Montserrat 300 for the body text on the website.
 
 ### [Imagery](#imagery)
@@ -60,13 +60,13 @@ I have used [Adobe XD](https://www.adobe.com/ie/products/xd.html) to create the 
 ## [Features](#features)
 ### [General features on each page](#general-features-on-each-page)
 
-The website consists of a Homepage, Travel page, Food page and an AboutUs page.
+The website consists of a Homepage, Travel page, Food page and an About Us page.
 
 All of the pages contain:
 * A responsive navigation bar:
-    * Logo is positioned on the left hand side.
-    * The other navigtion links (Home, Travel, Food, About Us) are located to the left.
-    * The color is a shade of light grey. 
+    * The logo is positioned on the left-hand side.
+    * The other navigation links (Home, Travel, Food, About Us) are located to the left.
+    * The colour is a shade of light grey. 
 
 ![Navigation Bar](images-readme/navigationbar.png)
 
@@ -89,15 +89,15 @@ The Homepage as Main page contains the navigation bar at the top and the footer 
 ![Latest Blog Posts](images-readme/latestposts.jpg)
 
 * The latest Blog Posts section contains three of the newest blog posts available on the website.
-* Each of the posts contain an image, a title and a quick summary of what to expect in the post.
+* Each of the posts contains an image, a title and a quick summary of what to expect in the post.
 * Images, title and the "Top ..." are clickable links and bring you, when clicked, to each of the individual contents.
 
 #### Section 3 : Newsletter Sign-Up Form
 
 ![Newsletter](images-readme/newsletter.jpg)
 
-* The newsletter sign-up form allows the user to sign-up to receive a monthly newsletter about newly added travel or food tips.
-* When form is submitted user is brought to [CI's form dump page](https://formdump.codeinstitute.net/). 
+* The newsletter sign-up form allows the user to sign up to receive a monthly newsletter about newly added travel or food tips.
+* When the form is submitted, the user is brought to [CI's form dump page](https://formdump.codeinstitute.net/). 
 * Form fields are required to be filled in before hitting the submit button. 
 
 ### The Travel Page
@@ -127,8 +127,8 @@ The About Us page gives the user the information about the creators of the websi
 
 ### [Accessibility](#accessibility)
 
-* For better accessibilty i I added alt-labels to all my images for vision impaired users.
-* To acchieve the required colour contrast I used the tool [Colour Contrast Checker](https://colourcontrast.cc/).
+* For better accessibility i I added alt-labels to all my images for vision impaired users.
+* To achieve the required colour contras,t I used the tool [Colour Contrast Checker](https://colourcontrast.cc/).
 
 ## [Technologies Used](#technologies-used)
 
@@ -149,27 +149,27 @@ The About Us page gives the user the information about the creators of the websi
 * [W3C Validator](https://validator.w3.org/) to validate HTML.
 * [W3C Jigsaw Validator](https://jigsaw.w3.org/css-validator/) to validate CSS.
 * [Image Converter](https://www.reduceimages.com/ ) to reduce size of images.
-* [Google Developer Tools](https://developer.chrome.com/docs/) to test code or solve issues and too use lighthouse.
-* [Mozzilla Developer Tools](https://firefox-source-docs.mozilla.org/devtools-user/) to test code or solve issues.
+* [Google Developer Tools](https://developer.chrome.com/docs/) to test code or solve issues and to use lighthouse.
+* [Mozilla Developer Tools](https://firefox-source-docs.mozilla.org/devtools-user/) to test code or solve issues.
 * [Am I Responsive](https://ui.dev/amiresponsive) to document the responsiveness on different devices.
 * [Image Converter1](https://convertio.co/download/) and [Image Converter2](https://cloudconvert.com/) to convert images from .jpeg to .webp.
 
 ## [Deployment](#deployment)
 
-This project was created by using Gitpod. I used the pre-built template from [Code Institue](https://github.com/Code-Institute-Org/gitpod-full-template).
-The following commands where used:
+This project was created by using Gitpod. I used the pre-built template from [Code Institute](https://github.com/Code-Institute-Org/gitpod-full-template).
+The following commands were used:
 * **python3 -m http.server** - to run a local server to view the project.
 * **git add .** - to add all the changes.
 * **git commit -m "..."** - to commit all the changes to the local repository.
-* **git push** - to push the commited changes to the Github repository.
+* **git push** - to push the committed changes to the Github repository.
 
 ### Deployment using Github
 1. Navigate to [project repository](https://github.com/sinastiller/vegan-travel-food-blog).
 2. Click on the Settings Tab.
 3. Scroll down to pages.
-4. For the source select main branch.
+4. For the source, select main branch.
 5. Click save.
-6. Open the link provided by Github to go to deployed website. **[LiveLink](https://sinastiller.github.io/vegan-travel-food-blog/)**
+6. Open the link provided by Github to go to yhe deployed website. **[LiveLink](https://sinastiller.github.io/vegan-travel-food-blog/)**
 
 
 ## [Testing](#testing)
@@ -179,8 +179,8 @@ Please find the carried out testing on [TESTING.md](TESTING.md).
 ## [Credits](#credits)
     
 ### [Code Used](#code-used)
- * The [Love Running Project](https://github.com/sinastiller/love-running) was referenced throught the website.
- * [W3C Schools](https://www.w3schools.com/) was referenced throught the project for html syntax and styling.
+ * The [Love Running Project](https://github.com/sinastiller/love-running) was referenced throughout the website.
+ * [W3C Schools](https://www.w3schools.com/) was referenced throughout the project for HTML syntax and styling.
  * [YouTube](https://www.youtube.com/) has been a great resource for tutorials and explanations.
  * [Link1](https://www.youtube.com/watch?v=fYq5PXgSsbE), [Link2](https://www.youtube.com/watch?v=FTlczfR82mQ) and [CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) helped me to learn about Flexbox and introduce it into my project.
  * [YouTube Video](https://www.youtube.com/watch?v=QNVrgzV66rY) used as a guide when creating the blog post cards on the Homepage.
@@ -213,7 +213,7 @@ Please find the carried out testing on [TESTING.md](TESTING.md).
 
 ## [Acknowledgements](#acknowledgements)
 
-I would like to thank my mentor Jubril Akolade for his guidance, time and patience throughout the process of the project and the awesome Slack Community for always giving the much needed push and advice to stay motivated and eager to acchieve the end result!
+I would like to thank my mentor Jubril Akolade for his guidance, time, and patience throughout the process of the project and the awesome Slack Community for always giving the much-needed push and advice to stay motivated and eager to achieve the end result!
 
 
 
